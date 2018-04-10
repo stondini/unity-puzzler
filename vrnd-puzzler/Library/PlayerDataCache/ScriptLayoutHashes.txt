@@ -203,6 +203,8 @@ c5839a4d51b9b5220e5cc04a930d6b3f Assembly-CSharp.dll:.UIFadeTransition
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GameObjectPoolController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Gvr.Internal.EmulatorClientSocket
 e399fc54e753911801f12ac57c8fc414 Assembly-CSharp.dll:.GVRDemoManager
-e651a21c334a584b8f0c38e3b848efd4 Assembly-CSharp.dll:.GameLogic
+9f23056a11ac2b6c1176b34eb2d4fa24 Assembly-CSharp.dll:.GameLogic
 f1dced04f168103741226c31e59bf1c5 Assembly-CSharp.dll:.Tab
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GVRSample.AutoPlayVideo
+dd3d8e8245be823c53656d0fa733791f Assembly-CSharp.dll:.SkyboxSwitcher
+52800061e92a810a5733add417506524 Assembly-CSharp.dll:.CameraScroll

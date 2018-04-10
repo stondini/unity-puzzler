@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 461}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 30
     width: 1636
     height: 956
-  m_MinSize: {x: 683, y: 342}
-  m_MaxSize: {x: 12008, y: 8042}
+  m_MinSize: {x: 766, y: 411}
+  m_MaxSize: {x: 12006, y: 8042}
   vertical: 0
   controlID: 56
 --- !u!114 &3
@@ -64,14 +64,14 @@ MonoBehaviour:
     y: 0
     width: 362
     height: 956
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 15}
+  m_MinSize: {x: 362, y: 411}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 15}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
     y: 0
     width: 1636
     height: 1006
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 461}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -207,8 +207,8 @@ MonoBehaviour:
     y: 0
     width: 1274
     height: 956
-  m_MinSize: {x: 406, y: 342}
-  m_MaxSize: {x: 8006, y: 8042}
+  m_MinSize: {x: 404, y: 342}
+  m_MaxSize: {x: 8004, y: 8042}
   vertical: 1
   controlID: 57
 --- !u!114 &10
@@ -231,8 +231,8 @@ MonoBehaviour:
     y: 0
     width: 1274
     height: 685
-  m_MinSize: {x: 406, y: 221}
-  m_MaxSize: {x: 8006, y: 4021}
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
   controlID: 58
 --- !u!114 &11
@@ -261,7 +261,7 @@ MonoBehaviour:
   - {fileID: 18}
   - {fileID: 13}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -352,19 +352,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/GoogleVR
+    - Assets/Environment/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/GoogleVR
+  - Assets/Environment/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/sto/Documents/Cours/Udacity/VR Developer/Projects/unity-puzzler/vrnd-puzzler
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 143}
-    m_SelectedIDs: 4c2d0000
-    m_LastClickedID: 11596
-    m_ExpandedIDs: 000000005a280000dc2900001e2a00004c2a00007a2a00008a2b0000
+    scrollPos: {x: 0, y: 59}
+    m_SelectedIDs: 06290000
+    m_LastClickedID: 10502
+    m_ExpandedIDs: 000000005a280000dc2900007a2a0000402b00008a2b0000d42b00001a2c000028de01002cde0100f0ef010070f1010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -417,10 +417,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: a0300000
-    m_LastClickedInstanceID: 12448
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000843300008e330000
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000843300008e33000000000000f02b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -436,7 +436,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -508,9 +508,9 @@ MonoBehaviour:
     height: 664
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc2e0000
-    m_LastClickedID: 11964
-    m_ExpandedIDs: a6fbffff00000000ec2d0000bc2e0000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: a8c3efff06c5efffaac6efff2aaaf1ff2eaaf1ff2661f2ff2a61f2ffb062fbff02b6ffff16baffffa6beffff9cd8ffffbcd8ffffd4d8ffff88e0ffffa6fbffff00000000603500000236000030360000003700009c3700003e38000002e50100dee8010024fa0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -560,14 +560,14 @@ MonoBehaviour:
     width: 954
     height: 664
   m_SceneLighting: 1
-  lastFramingTime: 0
+  lastFramingTime: 80522.57673251629
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.024633393, y: 0.5165997, z: -1.4187764}
+    m_Target: {x: -0.14422268, y: -2.2023175, z: -3.563899}
     speed: 2
-    m_Value: {x: -0.024633393, y: 0.5165997, z: -1.4187764}
+    m_Value: {x: -0.14422268, y: -2.2023175, z: -3.563899}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -590,13 +590,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.000013318883, y: 0.99998987, z: -0.006308887, w: -0.0015146054}
+    m_Target: {x: -0.0046646507, y: 0.98950946, z: -0.14076442, w: -0.032676484}
     speed: 2
-    m_Value: {x: -0.000013318739, y: 0.999979, z: -0.0063088187, w: -0.001514589}
+    m_Value: {x: -0.004664574, y: 0.9894932, z: -0.1407621, w: -0.032675948}
   m_Size:
-    m_Target: 7.508957
+    m_Target: 9.551611
     speed: 2
-    m_Value: 7.508957
+    m_Value: 9.551611
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -664,18 +664,18 @@ MonoBehaviour:
       y: 17
       width: 954
       height: 647
-    m_Scale: {x: 1.5176514, y: 1.5176514}
-    m_Translation: {x: 516.3417, y: 404.51245}
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 477, y: 323.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -340.22415
-      y: -266.53845
-      width: 628.60284
-      height: 426.3166
+      x: -477
+      y: -323.5
+      width: 954
+      height: 647
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
