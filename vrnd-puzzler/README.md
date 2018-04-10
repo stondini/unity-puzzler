@@ -9,3 +9,4 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 ## Credits & Special Thanks
 - Flames of the Phoenix - version 1.0 - http://www.onpolyx.com
+- Star Nest Skybox - version 1.1.1 - https://ninjapretzel.github.io/Portfolio/

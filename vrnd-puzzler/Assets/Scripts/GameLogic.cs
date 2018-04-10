@@ -1,6 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/* Final
+ * This script represents what your GameLogic.cs script might look like at the end of the course.
+ * 
+ * Do not use this script directly as the file and class names are incorrect.
+ */
 public class GameLogic : MonoBehaviour
 {
     public GameObject player;
@@ -26,8 +31,7 @@ public class GameLogic : MonoBehaviour
     // Variable for storing the index the player is trying to solve.
     private int currentSolveIndex = 0;
 
-    /* Uncomment the line below during 'A Little More Feedback!' lesson.*/
-    //public GameObject failAudioHolder;
+    public GameObject failAudioHolder;
 
     void Start()
     {
@@ -205,8 +209,7 @@ public class GameLogic : MonoBehaviour
         Debug.Log("You failed, resetting puzzle");
 
         // Get the GVR audio source component on the failAudioHolder and play the audio.
-        /* Uncomment the line below during 'A Little More Feedback!' lesson.*/
-        //failAudioHolder.GetComponent<GvrAudioSource>().Play();
+        failAudioHolder.GetComponent<GvrAudioSource>().Play();
 
         // Reset the index the player is trying to solving.
         currentSolveIndex = 0;
