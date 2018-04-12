@@ -148,6 +148,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 07fa47575215f13cb6a7a76ce2f5bb55 Assembly-CSharp.dll:.PrefabPageProvider
 7b9249923df3f51f329e72d5b82d6544 Assembly-CSharp.dll:.GvrBatteryIndicator
 d16a7663a07c331d6870f5924559de23 Assembly-CSharp.dll:.GvrLaserPointer
+dd3d8e8245be823c53656d0fa733791f Assembly-CSharp.dll:.SkyboxSwitcher
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -162,6 +163,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+52800061e92a810a5733add417506524 Assembly-CSharp.dll:.CameraScroll
 1c952386af3ef6bd3c90a34c4fd12f6b Assembly-CSharp.dll:.Teleport
 3ea4ece92e01e67f249480dd0b6cce0f Assembly-CSharp.dll:.GvrTouchPoint
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
@@ -206,5 +208,3 @@ e399fc54e753911801f12ac57c8fc414 Assembly-CSharp.dll:.GVRDemoManager
 9f23056a11ac2b6c1176b34eb2d4fa24 Assembly-CSharp.dll:.GameLogic
 f1dced04f168103741226c31e59bf1c5 Assembly-CSharp.dll:.Tab
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GVRSample.AutoPlayVideo
-dd3d8e8245be823c53656d0fa733791f Assembly-CSharp.dll:.SkyboxSwitcher
-52800061e92a810a5733add417506524 Assembly-CSharp.dll:.CameraScroll
